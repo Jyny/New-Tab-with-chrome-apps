@@ -1,5 +1,7 @@
 #New Tab with chrome apps#
 
+this version doesn't require any permission
+
 ##Installation##
 
 ####Get from on chrome web store：####
