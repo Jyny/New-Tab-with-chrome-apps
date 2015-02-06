@@ -7,5 +7,7 @@
 
 **Install from source：**    
 ```shell
-$test
+$git clone https://github.com/Jyny/New-Tab-with-chrome-apps.git
 ```
+then fellow the step frome offical tutorial:    
+https://developer.chrome.com/extensions/getstarted#unpacked
