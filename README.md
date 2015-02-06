@@ -9,5 +9,5 @@
 ```shell
 $git clone https://github.com/Jyny/New-Tab-with-chrome-apps.git
 ```
-then fellow the step frome offical tutorial:    
-https://developer.chrome.com/extensions/getstarted#unpacked
+after clone the git, fellow the step frome offical tutorial:    
+[Load the extension](https://developer.chrome.com/extensions/getstarted#unpacked)
