@@ -1,8 +1,8 @@
 #New Tab with chrome apps#
 
-##installation##
+##Installation##
 
-###get it on chrome web store:###
+*get it on chrome web store:*
 [New Tab with chrome apps](https://chrome.google.com/webstore/detail/new-tab-with-chrome-apps/ckcjokafpkoiijnflcpogblchhoieafj)
 
-###install from source###
+*install from source*
