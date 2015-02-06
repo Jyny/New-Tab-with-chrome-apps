@@ -2,7 +2,7 @@
 
 ##Installation##
 
-_get it on chrome web store:_
+**get it on chrome web store：**
 [New Tab with chrome apps](https://chrome.google.com/webstore/detail/new-tab-with-chrome-apps/ckcjokafpkoiijnflcpogblchhoieafj)
 
-_install from source:_
+**install from source：**
