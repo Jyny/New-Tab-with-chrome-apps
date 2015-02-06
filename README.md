@@ -1,5 +1,5 @@
 #New Tab with chrome apps#
-====================================================
+
 ##installation##
 
 ###get it on chrome web store:###
