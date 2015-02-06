@@ -1,6 +1,6 @@
 #New Tab with chrome apps#
 
-this version doesn't require any permission
+The version that doesn't require any permission
 
 ##Installation##
 
